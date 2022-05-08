@@ -1,4 +1,4 @@
-module github.com/zricethezav/gitleaks/v7
+module github.com/intrigueio/gitleaks/v7
 
 go 1.16
 
